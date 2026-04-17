@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringUtilities", "StringUtilities\StringUtilities.csproj", "{E335413A-F1A9-45AE-8D3E-C198C334822B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConsumer", "StringConsumer\StringConsumer.csproj", "{78A09137-2A86-46F2-9CC7-0BAFA364BD5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E335413A-F1A9-45AE-8D3E-C198C334822B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E335413A-F1A9-45AE-8D3E-C198C334822B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E335413A-F1A9-45AE-8D3E-C198C334822B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A09137-2A86-46F2-9CC7-0BAFA364BD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A09137-2A86-46F2-9CC7-0BAFA364BD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A09137-2A86-46F2-9CC7-0BAFA364BD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A09137-2A86-46F2-9CC7-0BAFA364BD5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
