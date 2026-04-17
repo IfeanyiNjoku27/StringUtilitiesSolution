@@ -1,0 +1,11 @@
+/Users/ifeanyi/Documents/winter2026/lab4/StringUtilitiesSolution/StringUtilities/bin/Debug/net8.0/StringUtilities.deps.json
+/Users/ifeanyi/Documents/winter2026/lab4/StringUtilitiesSolution/StringUtilities/bin/Debug/net8.0/StringUtilities.dll
+/Users/ifeanyi/Documents/winter2026/lab4/StringUtilitiesSolution/StringUtilities/bin/Debug/net8.0/StringUtilities.pdb
+/Users/ifeanyi/Documents/winter2026/lab4/StringUtilitiesSolution/StringUtilities/obj/Debug/net8.0/StringUtilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ifeanyi/Documents/winter2026/lab4/StringUtilitiesSolution/StringUtilities/obj/Debug/net8.0/StringUtilities.AssemblyInfoInputs.cache
+/Users/ifeanyi/Documents/winter2026/lab4/StringUtilitiesSolution/StringUtilities/obj/Debug/net8.0/StringUtilities.AssemblyInfo.cs
+/Users/ifeanyi/Documents/winter2026/lab4/StringUtilitiesSolution/StringUtilities/obj/Debug/net8.0/StringUtilities.csproj.CoreCompileInputs.cache
+/Users/ifeanyi/Documents/winter2026/lab4/StringUtilitiesSolution/StringUtilities/obj/Debug/net8.0/StringUtilities.dll
+/Users/ifeanyi/Documents/winter2026/lab4/StringUtilitiesSolution/StringUtilities/obj/Debug/net8.0/refint/StringUtilities.dll
+/Users/ifeanyi/Documents/winter2026/lab4/StringUtilitiesSolution/StringUtilities/obj/Debug/net8.0/StringUtilities.pdb
+/Users/ifeanyi/Documents/winter2026/lab4/StringUtilitiesSolution/StringUtilities/obj/Debug/net8.0/ref/StringUtilities.dll
